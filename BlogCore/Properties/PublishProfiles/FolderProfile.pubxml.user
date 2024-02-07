@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2024-01-16T21:49:33.2158572Z;True|2024-01-16T15:49:00.7857032-06:00;True|2024-01-16T15:35:54.9538977-06:00;True|2024-01-16T15:34:55.8070327-06:00;True|2024-01-16T15:32:15.7152295-06:00;True|2024-01-16T15:32:07.5686909-06:00;True|2024-01-16T15:26:19.6727670-06:00;True|2024-01-16T15:19:53.6404050-06:00;True|2024-01-16T15:14:00.8918051-06:00;True|2024-01-16T15:02:35.8081089-06:00;True|2024-01-16T14:29:11.2898615-06:00;True|2024-01-16T14:28:08.4000068-06:00;True|2024-01-16T14:27:49.8177873-06:00;True|2024-01-16T13:34:03.0806245-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
