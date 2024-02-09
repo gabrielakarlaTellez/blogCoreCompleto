@@ -1,0 +1,12 @@
+C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore.Models\bin\Release\net7.0\BlogCore.Models.deps.json
+C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore.Models\bin\Release\net7.0\BlogCore.Models.dll
+C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore.Models\bin\Release\net7.0\BlogCore.Models.pdb
+C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore.Models\obj\Release\net7.0\BlogCore.Models.csproj.AssemblyReference.cache
+C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore.Models\obj\Release\net7.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore.Models\obj\Release\net7.0\BlogCore.Models.AssemblyInfoInputs.cache
+C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore.Models\obj\Release\net7.0\BlogCore.Models.AssemblyInfo.cs
+C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore.Models\obj\Release\net7.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore.Models\obj\Release\net7.0\BlogCore.Models.dll
+C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore.Models\obj\Release\net7.0\refint\BlogCore.Models.dll
+C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore.Models\obj\Release\net7.0\BlogCore.Models.pdb
+C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore.Models\obj\Release\net7.0\ref\BlogCore.Models.dll
