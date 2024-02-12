@@ -17,3 +17,4 @@ C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\Blog
 C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.pdb
 C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.genruntimeconfig.cache
 C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\ref\BlogCore.AccesoDatos.dll
+C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.sourcelink.json

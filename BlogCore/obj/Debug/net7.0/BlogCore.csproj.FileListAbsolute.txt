@@ -269,3 +269,4 @@ C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\Blog
 C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore\obj\Debug\net7.0\BlogCore.pdb
 C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore\obj\Debug\net7.0\BlogCore.genruntimeconfig.cache
 C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore\obj\Debug\net7.0\ref\BlogCore.dll
+C:\CURSOS_APIS\cursoMMaster2\CrudNet7MVC\CrudNet7MVC\Nueva carpeta\BlogCore\BlogCore\obj\Debug\net7.0\BlogCore.sourcelink.json
